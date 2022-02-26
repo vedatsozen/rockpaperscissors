@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    background-color: #91F5AD;
+    text-align: center;
+    
+}
+
+
+.img {
+
+margin: auto;
+text-align: center;
+
+
+}
+
+button {
+    
+    margin-top:50px;
+   
+}
+
+button:hover {
+
+    background-color: orangered;
+    cursor: pointer;
+    
+}
+
+button:active {
+
+    background-color: orangered;
+    cursor: pointer;
+    
+}
+
+div {
+
+    margin-top: 100px;
+}
+
+
